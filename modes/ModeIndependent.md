@@ -1,0 +1,2 @@
+- **G**: grab
+  - **Shift**: gentle grabbing

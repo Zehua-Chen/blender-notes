@@ -7,6 +7,9 @@
 - **1, 2, 3**: switch between vertex, edge and face selection modes
 - **Control + E**: open context menu on edge
 - **Control + B**: bevel
+- **I**: inset
+  - Insets allows you to create circular loop cuts
+  - **B**: disable/enable boundary (snap inset to boundaries)
 
 # Selection Modes
 

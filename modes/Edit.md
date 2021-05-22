@@ -10,6 +10,7 @@
 - **I**: inset
   - Insets allows you to create circular loop cuts
   - **B**: disable/enable boundary (snap inset to boundaries)
+  - **Press I Twice**: inset faces individually
 
 # Selection Modes
 
@@ -23,4 +24,19 @@
   - **Right Click on Empty Space**: exit circle selection
   - **Hold C + Mouse Wheels**: adjust size of circle selection
 - **B**: box select
+  - **Shift + B**: box deselect
   - **Right Click on Empty Space**: exit box selection
+- **C**: sphere select
+  - **Shift + C**: sphere deselect
+  - Use mouse wheel to adjust size
+
+# Mesh
+
+## Transform
+
+### To Sphere
+
+Give the selection sphereical qualities
+
+- Menu: **Mehs -> Transform -> To Sphere**
+- Hotkey: **Shift + Alt + S**
